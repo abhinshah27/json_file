@@ -1,0 +1,15 @@
+{
+  "pagination": null,
+  "status": "success",
+  "data": [
+    {
+      "id": "1",
+      "visitor_name": "Mr. Mike Taler",
+      "type": "VISITOR",
+      "status": "REG",
+      "timestamp": "13:15",
+      "info": "Demo Info 1"
+    }
+  ],
+  "query": null
+}

@@ -5,10 +5,34 @@
     {
       "id": "1",
       "visitor_name": "Mr. Mike Taler",
-      "type": "VISITOR",
+      "type": "Visitor",
       "status": "REG",
       "timestamp": "13:15",
       "info": "Demo Info 1"
+    },
+     {
+      "id": "2",
+      "visitor_name": "Mr. Peter Lava",
+      "type": "STC",
+      "status": "IN",
+      "timestamp": "13:01",
+      "info": "Lorem ipsum dolor sit amet"
+    },
+     {
+      "id": "3",
+      "visitor_name": "Mrs. Sara Corner",
+      "type": "STC-Group",  
+      "status": "IN",
+      "timestamp": "13:30",
+      "info": "Lorem ipsum dolor sit amet"
+    },
+     {
+      "id": "4",
+      "visitor_name": "Mr. Jony depth",
+      "type": "LTC",
+      "status": "OUT",
+      "timestamp": "14:30",
+      "info": "suscipit, sapien eget sollicitudin pharetra"
     }
   ],
   "query": null
